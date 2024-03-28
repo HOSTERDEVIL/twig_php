@@ -1,0 +1,32 @@
+{
+    "latest_activity": [
+        {
+            "activity_type": "Devlopment & Update",
+            "activity": "Lorem ipsum dolor sit amet, More",
+			"readmore_link": "#",
+            "btn_color":"b-primary",
+            "color":"text-c-blue"
+        },
+        {
+            "activity_type": "Showcases",
+            "activity": "Lorem dolor sit amet, More",
+			"readmore_link": "#",
+            "btn_color":"b-primary",
+            "color":"text-c-blue"
+        },
+        {
+            "activity_type": "Miscellaneous",
+            "activity": "Lorem ipsum dolor sit ipsum amet, More",
+			"readmore_link": "#",
+            "btn_color":"b-success",
+            "color":"text-c-green"
+        },
+        {
+            "activity_type": "Your Manager Posted.",
+            "activity": "Lorem ipsum dolor sit amet, More",
+			"readmore_link": "#",
+            "btn_color":"b-danger",
+            "color":"text-c-red"
+        }
+    ]
+}

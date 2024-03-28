@@ -1,0 +1,36 @@
+{
+	"project_progress_summary": [
+		{
+			"title": "Published Project",
+			"value": "532",
+			"percentage": "+1.69%",
+			"color":"text-c-green",
+			"prog_color":"bg-c-red",
+			"scale":"25%"
+		},
+		{
+			"title": "Completed Task",
+			"value": "4569",
+			"percentage": "-0.5%",
+			"color":"text-c-red",
+			"prog_color":"bg-c-blue",
+			"scale":"65%"
+		},
+		{
+			"title": "Successfull Task",
+			"value": "89%",
+			"percentage": "+0.99%",
+			"color":"text-c-green",
+			"prog_color":"bg-c-green",
+			"scale":"85%"
+		},
+		{
+			"title": "Ongoing Project",
+			"value": "365",
+			"percentage": "+0.35%",
+			"color":"text-c-green",
+			"prog_color":"bg-c-yellow",
+			"scale":"45%"
+		}
+	]
+}

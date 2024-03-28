@@ -1,0 +1,28 @@
+{
+	"summary": [
+		{
+			"title": "Impressions",
+			"value": "1,563",
+			"duration": "May 23 - Jun 01",
+			"year": 2023,
+			"color":"text-c-blue",
+			"icon":"fa-eye bg-c-blue"
+		},
+		{
+			"title": "Goal",
+			"value": "30,564",
+			"duration": "May 23 - Jun 01",
+			"year": 2023,
+			"color":"text-c-green",
+			"icon":"fa-bullseye bg-c-green"
+		},
+		{
+			"title": "Impact",
+			"value": "42.6%",
+			"duration": "Jul 01 - Dec 10",
+			"year": 2023,
+			"color":"text-c-yellow",
+			"icon":"fa-hand-paper bg-c-yellow"
+		}
+	]
+}
